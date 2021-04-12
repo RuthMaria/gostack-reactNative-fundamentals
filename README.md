@@ -35,7 +35,7 @@ GoMarketplace features:
 
 ## :tv: Screen
 
-<img alt="Logo GoBarber" src="./src/assets/screen.png" width="400px" />
+<img alt="Logo GoBarber" src="./src/assets/screen.png" width="650px" />
 
 <a id="technologies"></a><br>
 
